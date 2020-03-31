@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 1 - Pomodoro Timer
 For this project, you'll be implementing a Pomodoro timer. This timer will help
 people trying to use the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
@@ -75,3 +76,7 @@ Good luck!
 ## Staff Solution
 If you want to play with the staff implementation, you can view it using
 Snack at [@jhhayashi/project1-solution](https://snack.expo.io/@jhhayashi/project1-solution).
+=======
+# pomodoro-timer
+Mobile app that helps with productivity by scheduling work sessions, built with React Native on Expo. 
+>>>>>>> 032c1e25784f0f8aff4a744b0de43dd6d77e0170
